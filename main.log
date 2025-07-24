@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.2)  24 JUL 2025 14:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.2)  24 JUL 2025 14:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -476,24 +476,24 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 19
  (c:/texlive/2025/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 207.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 213.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 207.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 213.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 207.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 213.
  (c:/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 207.
+(Font)              <10> on input line 213.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 207.
+(Font)              <7> on input line 213.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 207.
+(Font)              <5> on input line 213.
 
 
 [1
@@ -509,18 +509,18 @@ L3 programming layer <2025-04-29>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 15312 strings out of 469590
- 260177 string characters out of 5474520
- 671570 words of memory out of 5000000
- 41950 multiletter control sequences out of 15000+600000
+ 15308 strings out of 469590
+ 260066 string characters out of 5474520
+ 672570 words of memory out of 5000000
+ 41947 multiletter control sequences out of 15000+600000
  671023 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,10n,79p,646b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,647b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on main.pdf (2 pages, 228657 bytes).
+Output written on main.pdf (2 pages, 229109 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 10 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 128 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
